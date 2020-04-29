@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\Parceal\segundoparcial\capaDiseño\bin\Debug\capaDiseño.dll
+C:\Users\dell\Desktop\Parceal\segundoparcial\capaDiseño\bin\Debug\capaDiseño.pdb
+C:\Users\dell\Desktop\Parceal\segundoparcial\capaDiseño\obj\Debug\capaDiseño.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Parceal\segundoparcial\capaDiseño\obj\Debug\capaDiseño.interfazGrafica.resources
+C:\Users\dell\Desktop\Parceal\segundoparcial\capaDiseño\obj\Debug\capaDiseño.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Parceal\segundoparcial\capaDiseño\obj\Debug\capaDiseño.dll
+C:\Users\dell\Desktop\Parceal\segundoparcial\capaDiseño\obj\Debug\capaDiseño.pdb
